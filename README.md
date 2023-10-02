@@ -21,4 +21,4 @@ The SuperheroAPI Web App is straightforward to use. Follow these steps to get st
   1) Superhero Search: Search for superheroes by name or keyword.
   2) Detailed Information: View detailed information about each superhero, including their aliases and powers.
   3) Image Display: See images of superheroes to identify them easily.
-  4) Live Demo: 
+  4) Live Demo: https://sriharijagan.github.io/SuperheroHunt/
