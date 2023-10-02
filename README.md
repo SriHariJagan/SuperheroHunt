@@ -1,9 +1,9 @@
 # SuperheroHunt
 
-Description
+# Description
 The SuperheroAPI Web App is a web application that allows users to interact with the SuperheroAPI (https://superheroapi.com). This app provides an easy way to search for and retrieve information about superheroes, including their names, aliases, powers, and images.
 
-Usage:
+# Usage:
 The SuperheroAPI Web App is straightforward to use. Follow these steps to get started:
 
   1) Visit the Live Demo: You can access the live demo here. It's hosted online for easy access.
@@ -16,9 +16,7 @@ The SuperheroAPI Web App is straightforward to use. Follow these steps to get st
   4) Explore Superheroes:
      i) Feel free to search for and explore different superheroes from various comic universes.
 
-
-
-Features:
+ # Features:
 
   1) Superhero Search: Search for superheroes by name or keyword.
   2) Detailed Information: View detailed information about each superhero, including their aliases and powers.
