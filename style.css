@@ -216,6 +216,7 @@ img{
 
 .app-body-content-thumbnail{
     width: 100%;
+    
     border-radius: 6px;
     overflow: hidden;
 
@@ -370,7 +371,7 @@ img{
     line-height: 1.9;
 }
 
-@media screen and ( max-width: 1200px){
+@media ( max-width: 1200px){
     .app-body-content{
         grid-template-columns: 1fr 3fr;
         align-items: center;
@@ -380,7 +381,7 @@ img{
     }
 }
 
-@media screen and ( max-width: 1000px){
+@media ( max-width: 1000px){
     .app-body-content-list .name {
         align-items: center;
         margin-top: 1.8rem;
@@ -397,7 +398,7 @@ img{
     }
 }
 
-@media screen and ( max-width: 992px){
+@media ( max-width: 992px){
     .app-header{
         flex-direction: column;
     }
@@ -407,9 +408,8 @@ img{
 
     .app-body-content-thumbnail{
         width: 100%;
-        min-height: 500px;
         border-radius: 6px;
-        overflow: hidden;
+        height: 600px;
     
         img{
             border-radius: 6px;
@@ -419,7 +419,7 @@ img{
     }
 }
 
-@media screen and ( max-width: 768px){
+@media ( max-width: 780px){
     .app{
         width: 90%;
         padding: 2rem 20px;
@@ -427,8 +427,8 @@ img{
     }
 
     .app-body-content-thumbnail {
-        min-width: 86%;
-        height: 550px;
+        width: 100%;
+        height: 450px;
 
         img{
             width: 100%;
@@ -481,7 +481,6 @@ img{
 
     .app-body{
         margin-top: 4rem;
-        min-height: 600px;
         overflow-y: hidden;
     }
 
@@ -491,11 +490,6 @@ img{
 
     .app-body-tabs-body {
         margin: auto;
-    }
-
-    .app-body-content-thumbnail {
-        min-width: 85%;
-        height: 250px;
     }
 
     .powerstats li div{
