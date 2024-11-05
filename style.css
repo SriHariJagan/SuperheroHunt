@@ -423,6 +423,7 @@ img{
     .app{
         width: 90%;
         padding: 2rem 20px;
+        margin: 20px auto;
     }
 
     .app-body-content-thumbnail {
@@ -475,6 +476,7 @@ img{
     .app{
         width: 90%;
         padding: 2rem 20px;
+      
     }
 
     .app-body{
@@ -489,6 +491,11 @@ img{
 
     .app-body-tabs-body {
         margin: auto;
+    }
+
+    .app-body-content-thumbnail {
+        min-width: 85%;
+        height: 350px;
     }
 
     .powerstats li div{
